@@ -1,0 +1,14 @@
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\bin\Debug\ProxiChatClient.exe.config
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\bin\Debug\ProxiChatClient.exe
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\bin\Debug\ProxiChatClient.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\MainWindow.g.cs
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\App.g.cs
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient_MarkupCompile.cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient_MarkupCompile.lref
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\MainWindow.baml
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.g.resources
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.Properties.Resources.resources
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.csproj.GenerateResource.Cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.exe
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.csprojResolveAssemblyReference.cache
