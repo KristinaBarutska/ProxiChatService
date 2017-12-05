@@ -32,7 +32,7 @@ namespace ProxiChatClient
             ProxiChatServiceReference.Service1Client client = new ProxiChatServiceReference.Service1Client();
             string result = client.GetData(name);
 
-            inputTextBox.Text = result+"test";
+            inputTextBox.Text = result+ " test";
 
         }
     }

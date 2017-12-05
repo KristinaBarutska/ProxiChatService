@@ -1,0 +1,5 @@
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\Interfaces\bin\Debug\Interfaces.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\Interfaces\obj\Debug\Interfaces.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\Interfaces\obj\Debug\Interfaces.pdb

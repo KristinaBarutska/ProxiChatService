@@ -12,3 +12,5 @@ c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\Proxi
 c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.exe
 c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.pdb
 c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\obj\Debug\ProxiChatClient.csprojResolveAssemblyReference.cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\bin\Debug\Interfaces.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\ProxiChatService\ProxiChatClient\bin\Debug\Interfaces.pdb
